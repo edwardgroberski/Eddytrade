@@ -1,0 +1,9 @@
+{
+  "data": {
+    "name": "Name",
+    "watchlist-entries": [{ "symbol": "AA" }, { "symbol": "AAPL" }],
+    "group-name": "Group",
+    "order-index": 9999
+  },
+  "context": "/watchlists"
+}

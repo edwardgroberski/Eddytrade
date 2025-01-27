@@ -1,0 +1,22 @@
+{
+  "data": {
+    "items": [
+      {
+        "symbol": "AAPL",
+        "description": "Apple Inc. - Common Stock"
+      },
+      {
+        "symbol": "AAPD",
+        "description": "Direxion Daily AAPL Bear 1X Shares"
+      },
+      {
+        "symbol": "AAPU",
+        "description": "Direxion Daily AAPL Bull 2X Shares"
+      },
+      {
+        "symbol": "AAPB",
+        "description": "GraniteShares 2x Long AAPL Daily ETF"
+      }
+    ]
+  }
+}

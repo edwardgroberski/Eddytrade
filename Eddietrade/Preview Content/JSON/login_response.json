@@ -1,0 +1,13 @@
+{
+  "data": {
+    "user": {
+      "email": "fake@fake.com",
+      "external-id": "id",
+      "is-confirmed": false,
+      "username": "fake"
+    },
+    "session-expiration": "2025-01-25T22:16:30.145Z",
+    "session-token": "token"
+  },
+  "context": "/sessions"
+}
